@@ -1,0 +1,7 @@
+<?php
+//this  is test 
+
+print_r('this is test a php lang=en');
+
+
+?>
